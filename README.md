@@ -29,3 +29,13 @@ induction task
   screenshots per the submission instructions.
 
 Run it with:
+
+pip install pandas numpy matplotlib
+python depth_monitor.py
+
+
+## Task 2: Keeping Watch Over Odysseus (`odysseus_watch.ino`)
+
+*(coming soon)*
+
+## Repo contents
