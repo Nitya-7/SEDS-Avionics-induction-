@@ -2,8 +2,8 @@
 induction task 
 # SEDS BPHC — Avionics Round 1 Induction Task: Athena's Intern
 
-**Name:** <YOUR NAME HERE>
-**ID Number:** <YOUR ID HERE>
+**NITYA KAPOOR:** <YOUR NAME HERE>
+**2025B5A3PS0551H:** <YOUR ID HERE>
 
 ## Task 1: Finding the Sea Floor (`depth_monitor.py`)
 
