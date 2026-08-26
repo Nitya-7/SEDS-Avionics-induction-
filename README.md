@@ -93,4 +93,3 @@ The system operates using a multi-state finite state machine (FSM):
 3. Paste the provided state machine source code (`.ino`) into the code editor.
 4. Start the simulation.
 5. Interact with the sensors (adjust LDR light levels or Ultrasonic distance slider) and push button to test state transitions.
-## Repo contents
